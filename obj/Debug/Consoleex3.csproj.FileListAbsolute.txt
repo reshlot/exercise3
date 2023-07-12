@@ -1,0 +1,8 @@
+D:\Users\desktop\simplilearn\Exercises\Exercise3\ps1\Consoleex3\Consoleex3\bin\Debug\Consoleex3.exe.config
+D:\Users\desktop\simplilearn\Exercises\Exercise3\ps1\Consoleex3\Consoleex3\bin\Debug\Consoleex3.exe
+D:\Users\desktop\simplilearn\Exercises\Exercise3\ps1\Consoleex3\Consoleex3\bin\Debug\Consoleex3.pdb
+D:\Users\desktop\simplilearn\Exercises\Exercise3\ps1\Consoleex3\Consoleex3\obj\Debug\Consoleex3.csproj.AssemblyReference.cache
+D:\Users\desktop\simplilearn\Exercises\Exercise3\ps1\Consoleex3\Consoleex3\obj\Debug\Consoleex3.csproj.SuggestedBindingRedirects.cache
+D:\Users\desktop\simplilearn\Exercises\Exercise3\ps1\Consoleex3\Consoleex3\obj\Debug\Consoleex3.csproj.CoreCompileInputs.cache
+D:\Users\desktop\simplilearn\Exercises\Exercise3\ps1\Consoleex3\Consoleex3\obj\Debug\Consoleex3.exe
+D:\Users\desktop\simplilearn\Exercises\Exercise3\ps1\Consoleex3\Consoleex3\obj\Debug\Consoleex3.pdb
